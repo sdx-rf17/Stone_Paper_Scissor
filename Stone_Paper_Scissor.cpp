@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 using namespace std;
 
 enum enGameChoice{Stone = 1 , Paper = 2 , Scissors = 3};
